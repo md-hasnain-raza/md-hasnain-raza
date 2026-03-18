@@ -4,7 +4,9 @@
 Java Developer with 3+ years of experience specialising in back-end and distributed systems, building scalable cloud-native platforms using Java 11, Spring Boot, and microservices. Hands-on expertise designing and scaling production-grade systems, including architecture, infrastructure, and CI/CD pipelines. Proven track record of creating high-performance REST APIs, optimising MySQL and distributed database performance. Known for driving end-to-end ownership and delivering measurable improvements in system accuracy, speed, and reliability.
 
 ## Contact Me
-<p><a href="https://www.linkedin.com/in/md-hasnain-raza-3b962824a/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a> <a href="mdhasnainraza669@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Medium-%23000000.svg?&style=flat-square&logo=medium&logoColor=white" alt="Medium"></a> </p>
+<p><a href="https://www.linkedin.com/in/md-hasnain-raza-3b962824a/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a> <a href="mdhasnainraza669@gmail.com">
+  <img src="https://img.shields.io/badge/Email-%23000000.svg?&style=flat-square&logo=gmail&logoColor=white" alt="Email">
+</a> </p>
 
 ## Skills
 
